@@ -1,7 +1,7 @@
 define(["require", "exports"], function (require, exports) {
     var Welcome = (function () {
         function Welcome() {
-            this.heading = "Welcome to the Aurelia Navigation App (VS/TS)!";
+            this.heading = "Welcome to the Aurelia Navigation App (Atom)!";
             this.firstName = "John";
             this.lastName = "Doe";
         }

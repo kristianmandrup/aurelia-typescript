@@ -3,7 +3,7 @@ define(["require", "exports", "aurelia-router", "aurelia-framework"], function (
         function Welcome(theRouter) {
             this.theRouter = theRouter;
             this.addedDynoViewRoute = false;
-            this.heading = "Welcome to the Aurelia Navigation App (VS/TS)!";
+            this.heading = "Welcome to the Aurelia Navigation App Webstorm!";
             this.firstName = "John";
             this.lastName = "Doe";
         }

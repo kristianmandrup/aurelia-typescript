@@ -12,7 +12,7 @@ define(["require", "exports", "aurelia-router"], function (require, exports, _au
                         ],
                         moduleId: "views/welcome",
                         nav: true,
-                        title: "Welcome to VS/TS"
+                        title: "Welcome to Atom sample"
                     },
                     {
                         route: "flickr",

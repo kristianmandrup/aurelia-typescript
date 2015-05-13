@@ -10,7 +10,7 @@ export class Welcome {
     public addedDynoViewRoute: boolean = false;
 
     constructor(public theRouter: aur.Router) {
-        this.heading = "Welcome to the Aurelia Navigation App (VS/TS)!";
+        this.heading = "Welcome to the Aurelia Navigation App (Webstorm)!";
         this.firstName = "John";
         this.lastName = "Doe";
     }

@@ -84,9 +84,6 @@
 2. [Atom IDE](https://atom.io/)
   3. Extension: [ATOM TypeScript](https://atom.io/packages/atom-typescript)
   4. [Atom Instruction Page](https://github.com/cmichaelgraham/aurelia-typescript/blob/master/Aurelia-TypeScript-IDE-Atom.md)
-3. [Visual Studio 2013 IDE](https://www.visualstudio.com/products/visual-studio-community-vs) 
-  4. [TypeScript Install](http://www.typescriptlang.org/#Download)
-  5. [VS2013 Instruction Page](https://github.com/cmichaelgraham/aurelia-typescript/blob/master/Aurelia-TypeScript-IDE-VS2013.md)
 
 ## Coverage
 

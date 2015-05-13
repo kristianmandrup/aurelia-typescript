@@ -3,9 +3,9 @@ define(["require", "exports", "aurelia-router"], function (require, exports, aur
         function App(router) {
             this.router = router;
             this.router.configure(function (config) {
-                config.title = "Aurelia VS/TS";
+                config.title = "Aurelia Webstorm";
                 config.map([
-                    { route: ["", "welcome"], moduleId: "views/welcome", nav: true, title: "Welcome to VS/TS" },
+                    { route: ["", "welcome"], moduleId: "views/welcome", nav: true, title: "Welcome to Webstorm" },
                     { route: "flickr", moduleId: "views/flickr", nav: true },
                     { route: "child-router", moduleId: "views/child-router", nav: true, title: "Child Router" }
                 ]);
